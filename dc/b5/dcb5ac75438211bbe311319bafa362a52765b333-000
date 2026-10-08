@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "projectId": "agent-conversations",
+  "workshopPath": "/Users/zenray/.claude/tmp/tmp-agent-conversations",
+  "sourceWorkshopPath": "/Users/zenray/.claude/tmp/tmp-agent-conversations",
+  "memoryPath": "/Users/zenray/.claude/Memory1/Projects/agent-conversations",
+  "memoryFile": "/Users/zenray/.claude/Memory1/Projects/agent-conversations/Project1.md",
+  "feedbackPath": "/Users/zenray/.claude/Memory1/Projects/agent-conversations/FEEDBACK.md",
+  "cloudFolder": "pages/ZenRayAssets/agent-conversations",
+  "createdAt": "2026-10-04T08:03:36.491Z"
+}
