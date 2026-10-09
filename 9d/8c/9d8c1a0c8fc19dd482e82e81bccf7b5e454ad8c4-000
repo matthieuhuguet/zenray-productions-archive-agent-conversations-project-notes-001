@@ -6,3 +6,10 @@
 - Project: agent-conversations; kind: log. (4 October 2026, 10:03:36 +0200)
 
 > Project initialized: Conversations des agents. Workshop: /Users/zenray/.claude/tmp/tmp-agent-conversations. (4 October 2026, 10:03:36 +0200)
+
+## 8 October 2026, 22:50:21 +0200 : Log
+
+<!-- feedback-event:65faee5d1b1bd4d8cabb08b9b4fd40563159a6fe811e8b5ae0bed9dd267b10da (8 October 2026, 22:50:21 +0200) -->
+- Project: agent-conversations; kind: log. (8 October 2026, 22:50:21 +0200)
+
+> The queued archive job b639f3e7 started after the workshop watcher was disabled and was stopped after detecting three local Gemini database files with sensitive token-shaped matches. Those three exact source paths are now excluded through the Assets registry; the files remain local. No matching manifests or chunks were found in workshop shard routes r01-r04, shards 001-008. The interrupted job is recorded as failed; do not resume this source until the archive queue and exclusion mapping are rechecked. (8 October 2026, 22:50:21 +0200)
